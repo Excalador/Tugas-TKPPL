@@ -1,0 +1,133 @@
+Sprint 1
+------------------------------------------------------------------------------
+======
+Hari 1
+======
+
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- -
+Apa yang dikerjakan Hari ini?
+- Mengambil contoh modul dan mempelajari isinya.
+Ada masalah dalam pengerjaan tugas?
+- banyak syntaks yang masih tidak di mengerti.
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- -
+Apa yang dikerjakan Hari ini?
+- Membuat Pendahuluan dari tugas
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- -
+Apa yang dikerjakan Hari ini?
+- -
+Ada masalah dalam pengerjaan tugas?
+- Masih belum mengerti cara pengerjaan tugas.
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- -
+Apa yang dikerjakan Hari ini?
+- -
+Ada masalah dalam pengerjaan tugas?
+- Masih belum mengerti cara pengerjaan tugas.
+
+Progress Harian
+---------------
+1. PUSH : Pendahuluan dan componen lain (Dedy Suhendra).
+2. PUSH : Componen presentasi ke github (Frenky Salim).
+
+======
+Hari 2
+======
+
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Mengambil contoh modul dan mempelajari isinya.
+Apa yang dikerjakan Hari ini?
+- Pengembangan Awal untuk Tenses Part IV
+Ada masalah dalam pengerjaan tugas?
+- Salah melakukan push, push dilakukan di repository untuk perorangan dan bukan untuk organisasi, jadi data dihapus
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Membuat Pendahuluan dari tugas
+Apa yang dikerjakan Hari ini?
+- Pengembangan Awal untuk Tenses Part II
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- -
+Apa yang dikerjakan Hari ini?
+- Pengembangan Awal untuk Tenses Part III
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- -
+Apa yang dikerjakan Hari ini?
+- -
+Ada masalah dalam pengerjaan tugas?
+- Masih belum mengerti cara pengerjaan tugas.
+
+Progress Harian
+---------------
+1. PUSH : Pengembangan Tenses Part II.(Dedy Suhendra)
+2. PUSH : Pengembangan Tenses Part III.(Jimmy Yappeter)
+3. PUSH : Pengembangan Tenses Part IV.(Frenky Salim)
+
+======
+Hari 2
+======
+
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Pengembangan Awal untuk Tenses Part IV 
+Apa yang dikerjakan Hari ini?
+- Pengembangan Lanjutan untuk Tenses Part IV
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Pengembangan Awal untuk Tenses Part II
+Apa yang dikerjakan Hari ini?
+- Pengembangan Lanjutan untuk Tenses Part II
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Pengembangan Awal untuk Tenses Part III
+Apa yang dikerjakan Hari ini?
+- Pengembangan Lanjutan untuk Tenses Part III
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- -
+Apa yang dikerjakan Hari ini?
+- Pengembangan Awal untuk Tenses Part I
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Pengembangan Tenses Part II Lanjutan & Logbook.(Dedy Suhendra)
+2. PUSH : Pengembangan Tenses Part III Lanjutan.(Jimmy Yappeter)
+3. PUSH : Pengembangan Tenses Part IV Lanjutan.(Frenky Salim)
+4. PUSH : Pengembangan Tenses Part I. (Boby Hartanto)
