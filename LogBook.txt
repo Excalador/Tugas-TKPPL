@@ -88,7 +88,7 @@ Progress Harian
 3. PUSH : Pengembangan Tenses Part IV.(Frenky Salim)
 
 ======
-Hari 2
+Hari 3
 ======
 
 Daily SCRUM Meeting
@@ -131,3 +131,49 @@ Progress Harian
 2. PUSH : Pengembangan Tenses Part III Lanjutan.(Jimmy Yappeter)
 3. PUSH : Pengembangan Tenses Part IV Lanjutan.(Frenky Salim)
 4. PUSH : Pengembangan Tenses Part I. (Boby Hartanto)
+
+
+======
+Hari 4
+======
+
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Pengembangan Lanjutan untuk Tenses Part IV
+Apa yang dikerjakan Hari ini?
+- Pengembangan Akhir untuk Tenses Part IV
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Pengembangan Lanjutan untuk Tenses Part II
+Apa yang dikerjakan Hari ini?
+- Pengembangan Akhir untuk Tenses Part II
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Pengembangan Lanjutan untuk Tenses Part III
+Apa yang dikerjakan Hari ini?
+- Pengembangan Akhir untuk Tenses Part III
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- Pengembangan Awal untuk Tenses Part I
+Apa yang dikerjakan Hari ini?
+- Pengembangan Akhir untuk Tenses Part I
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Pengembangan Tenses Part II Akhir & Logbook.(Dedy Suhendra)
+2. PUSH : Pengembangan Tenses Part III Akhir.(Jimmy Yappeter)
+3. PUSH : Pengembangan Tenses Part IV Akhir.(Frenky Salim)
+4. PUSH : Pengembangan Tenses Part I Akhir. (Boby Hartanto)
