@@ -1,0 +1,38 @@
+- var pageTitle = 'Tenses Part III'
+
+include presentation-header
+
+include menu
+
+article#presentation
+
+	section
+		h2 Question Tags
+		h3 Pengertian, Rumus dan Contoh Kalimat 
+
+	section
+		h2 Question Tags
+		h3 Pengertian
+		h4 Question tag adalah pertanyaan pendek yang ditambahkan di akhir pernyataan (declarative sentence) untuk menanyakan informasi atau meminta persetujuan.
+
+	section
+		h2 Question Tags
+		h3 Rumus
+		ul linking verb “be”/auxiliary verb +/- not + pronoun
+
+	section
+		h2 Question Tags
+		h3 Keterangan
+		h4 linking verb “be” yaitu: is, am, are, was, were, sedangkan auxiliary verb berupa primary auxiliary verb (be, do, have) atau modal auxiliary verb (will, would, may, may, might, can, could, shall, should) yang cocok dengan verb pada bagian pernyataan.
+		h4 Pronoun disesuaikan dengan subject pada bagian pernyataan.
+
+	section
+		h2 Question Tags
+		h3 Contoh Kalimat 
+		ul	You love math, don’t you?
+		ul (Kamu suka matematika kan?)yang akan sedang terjadi pada waktu tertentu di masa depan.
+		ul You don’t love math, do you? 
+		ul (Kamu tidak suka matematika kan?)
+
+include presentation-footer
+include main-footer
