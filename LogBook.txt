@@ -177,3 +177,48 @@ Progress Harian
 2. PUSH : Pengembangan Tenses Part III Akhir.(Jimmy Yappeter)
 3. PUSH : Pengembangan Tenses Part IV Akhir.(Frenky Salim)
 4. PUSH : Pengembangan Tenses Part I Akhir. (Boby Hartanto)
+
+======
+Hari 5
+======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Pengembangan Akhir untuk Tenses Part IV
+Apa yang dikerjakan Hari ini?
+- Conditional Sentence.jade
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Pengembangan Akhir untuk Tenses Part II
+Apa yang dikerjakan Hari ini?
+- Many & Much Grammar
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Pengembangan Akhir untuk Tenses Part III
+Apa yang dikerjakan Hari ini?
+- Question Tag.txt
+Ada masalah dalam pengerjaan tugas?
+- Memiliki beberapa masalah mengena tugas dari Scrume Master, 
+tetapi sudah saya tanyakan dengan cermat kepada Scrume Master terhadulu
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- Pengembangan Akhir untuk Tenses Part I
+Apa yang dikerjakan Hari ini?
+- Preposition
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Pengembangan Many & Much Grammar (Dedy Suhendra)
+2. PUSH : Pengembangan Question Tag Grammar & Logbook (Jimmy Yappeter)
+3. PUSH : Pengembangan Conditional Sentence. (Frenky Salim)
+4. PUSH : Pengembangan Preposition (Boby Hartanto)
