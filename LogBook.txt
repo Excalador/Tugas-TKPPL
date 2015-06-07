@@ -187,7 +187,7 @@ Frenky Salim :
 Kemarin Mengerjakan Apa?
 - Pengembangan Akhir untuk Tenses Part IV
 Apa yang dikerjakan Hari ini?
-- Conditional Sentence.jade
+- Conditional Sentence
 Ada masalah dalam pengerjaan tugas?
 - Tidak ada
 
@@ -195,7 +195,7 @@ Dedy Suhendra :
 Kemarin Mengerjakan Apa?
 - Pengembangan Akhir untuk Tenses Part II
 Apa yang dikerjakan Hari ini?
-- Many & Much Grammar
+- Degree of Comparison
 Ada masalah dalam pengerjaan tugas?
 - Tidak ada
 
@@ -219,6 +219,50 @@ Ada masalah dalam pengerjaan tugas?
 Progress Harian
 ---------------
 1. PUSH : Pengembangan Many & Much Grammar (Dedy Suhendra)
-2. PUSH : Pengembangan Question Tag Grammar & Logbook (Jimmy Yappeter)
+2. PUSH : Pengembangan Question Tag Grammar, Logbook, BurndownChart dan Backlog (Jimmy Yappeter)
 3. PUSH : Pengembangan Conditional Sentence. (Frenky Salim)
 4. PUSH : Pengembangan Preposition (Boby Hartanto)
+
+======
+Hari 6
+======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Conditional Sentence
+Apa yang dikerjakan Hari ini?
+- Conditional Sentence Lanjutan
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Degree of Comparison
+Apa yang dikerjakan Hari ini?
+- Sythesis
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Question Tag
+Apa yang dikerjakan Hari ini?
+- Question Tag Lanjutan
+Ada masalah dalam pengerjaan tugas?
+- Saya memiliki masalah dimana ketika membuat Question tag tahap pertama, saya melakukannya dengan pengerjaan tidak benar karena men save filenya di .txt tidak dengan exsistensi .JADE sehingga saya harus membuat ulang lagi.
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- Preposition
+Apa yang dikerjakan Hari ini?
+- Subjunctive
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Pengembangan Sythesis (Dedy Suhendra)
+2. PUSH : Pengembangan Question Tag Grammar & Logbook (Jimmy Yappeter)
+3. PUSH : Pengembangan Conditional Sentence Lanjutan (Frenky Salim)
+4. PUSH : Pengembangan Subjunctive (Boby Hartanto)
