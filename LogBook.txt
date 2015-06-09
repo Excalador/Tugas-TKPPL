@@ -266,3 +266,48 @@ Progress Harian
 2. PUSH : Pengembangan Question Tag Grammar & Logbook (Jimmy Yappeter)
 3. PUSH : Pengembangan Conditional Sentence Lanjutan (Frenky Salim)
 4. PUSH : Pengembangan Subjunctive (Boby Hartanto)
+
+======
+Hari 7
+======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Conditional Sentence Lanjutan
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Sythesis
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Question Tag Lanjutan
+Apa yang dikerjakan Hari ini?
+- modal & auxiliary
+Ada masalah dalam pengerjaan tugas?
+- tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- 
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Pengembangan Sythesis (Dedy Suhendra)
+2. PUSH : Pengembangan Modal & Auxilary & Logbook (Jimmy Yappeter)
+3. PUSH : Pengembangan Conditional Sentence Lanjutan (Frenky Salim)
+4. PUSH : Pengembangan - (Boby Hartanto)
+
