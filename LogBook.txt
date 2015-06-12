@@ -240,7 +240,7 @@ Dedy Suhendra :
 Kemarin Mengerjakan Apa?
 - Degree of Comparison
 Apa yang dikerjakan Hari ini?
-- Sythesis
+- Synthesis
 Ada masalah dalam pengerjaan tugas?
 - Tidak ada
 
@@ -262,7 +262,7 @@ Ada masalah dalam pengerjaan tugas?
 
 Progress Harian
 ---------------
-1. PUSH : Pengembangan Sythesis (Dedy Suhendra)
+1. PUSH : Pengembangan Synthesis (Dedy Suhendra)
 2. PUSH : Pengembangan Question Tag Grammar & Logbook (Jimmy Yappeter)
 3. PUSH : Pengembangan Conditional Sentence Lanjutan (Frenky Salim)
 4. PUSH : Pengembangan Subjunctive (Boby Hartanto)
@@ -276,15 +276,15 @@ Frenky Salim :
 Kemarin Mengerjakan Apa?
 - Conditional Sentence Lanjutan
 Apa yang dikerjakan Hari ini?
-- 
+- Conditional Sentence Akhir
 Ada masalah dalam pengerjaan tugas?
 - Tidak ada
 
 Dedy Suhendra :
 Kemarin Mengerjakan Apa?
-- Sythesis
+- Synthesis
 Apa yang dikerjakan Hari ini?
-- 
+- Many & Much
 Ada masalah dalam pengerjaan tugas?
 - Tidak ada
 
@@ -306,8 +306,137 @@ Ada masalah dalam pengerjaan tugas?
 
 Progress Harian
 ---------------
-1. PUSH : Pengembangan Sythesis (Dedy Suhendra)
+1. PUSH : Pengembangan Many & Much (Dedy Suhendra)
 2. PUSH : Pengembangan Modal & Auxilary & Logbook (Jimmy Yappeter)
-3. PUSH : Pengembangan Conditional Sentence Lanjutan (Frenky Salim)
+3. PUSH : Pengembangan Conditional Sentence Akhir (Frenky Salim)
 4. PUSH : Pengembangan - (Boby Hartanto)
+
+======
+Hari 8
+======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Conditional Sentences
+Apa yang dikerjakan Hari ini?
+- Passive Voice 4
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Many & Much
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Question Tag Lanjutan
+Apa yang dikerjakan Hari ini?
+- Question Tag Akhir
+Ada masalah dalam pengerjaan tugas?
+- tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- 
+Apa yang dikerjakan Hari ini?
+- Preposition
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Pengembangan Question Tag (Jimmy Yappeter)
+2. PUSH : Pengembangan Passive Voice IV (Frenky Salim)
+3. PUSH : Pengembangan Preposition (Boby Hartanto)
+
+======
+Hari 9
+======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Passive Voice IV
+Apa yang dikerjakan Hari ini?
+- Concordance
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- 
+Apa yang dikerjakan Hari ini?
+- Elliptical Construction
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Question Tag Akhir
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- Preposition
+Apa yang dikerjakan Hari ini?
+- Preposition lanjutan
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Pengembangan Elliptical Construction (Dedy Suhendra)
+2. PUSH : Pengembangan Concordance (Frenky Salim)
+3. PUSH : Pengembangan Preposition (Boby Hartanto)
+
+======
+Hari 10
+======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Concordance
+Apa yang dikerjakan Hari ini?
+- Subjunctive
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Elliptical Construction
+Apa yang dikerjakan Hari ini?
+- Memperbaiki error pada halaman
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- 
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- Preposition Lanjutan
+Apa yang dikerjakan Hari ini?
+- Preposition Akhir
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Perbaikan halaman preposition, question tag (Dedy Suhendra)
+2. PUSH : Subjunctive (Frenky Salim)
+3. PUSH : Preposition (Boby Hartanto)
 
