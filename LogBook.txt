@@ -397,9 +397,9 @@ Progress Harian
 2. PUSH : Pengembangan Concordance (Frenky Salim)
 3. PUSH : Pengembangan Preposition (Boby Hartanto)
 
-======
+=======
 Hari 10
-======
+=======
 Daily SCRUM Meeting
 -------------------
 Frenky Salim :
@@ -439,4 +439,175 @@ Progress Harian
 1. PUSH : Perbaikan halaman preposition, question tag (Dedy Suhendra)
 2. PUSH : Subjunctive (Frenky Salim)
 3. PUSH : Preposition (Boby Hartanto)
+
+
+=======
+Hari 11
+=======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Subjunctive
+Apa yang dikerjakan Hari ini?
+- Passive Voice Part I
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Memperbaiki error pada halaman
+Apa yang dikerjakan Hari ini?
+- Memperbaiki kesalahan anggota lain
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- 
+Apa yang dikerjakan Hari ini?
+- Passive Voice Part III
+Ada masalah dalam pengerjaan tugas?
+- tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- Preposition Akhir
+Apa yang dikerjakan Hari ini?
+- Gerund
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Perbaikan halaman(Dedy Suhendra)
+2. PUSH : Passive Voice Part I (Frenky Salim)
+3. PUSH : Gerund (Boby Hartanto)
+4. PUSH : Passive Voice III (Boby Hartanto)
+
+=======
+Hari 12
+=======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Passive Voice Part I
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Perbaikan Halaman
+Apa yang dikerjakan Hari ini?
+- Penambahan Menu
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Passive Voice III
+Apa yang dikerjakan Hari ini?
+- Passive Voice III Lanjutan
+Ada masalah dalam pengerjaan tugas?
+- tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- Gerund
+Apa yang dikerjakan Hari ini?
+- Gerund Lanjutan
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Menu (Dedy Suhendra)
+2. PUSH : Passive Voice III (Jimmy Yappeter)
+3. PUSH : Gerund (Boby Hartanto)
+
+=======
+Hari 13
+=======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Penambahan Menu
+Apa yang dikerjakan Hari ini?
+- Burndown Chart
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+- Penambahan Menu
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Passive Voice
+Apa yang dikerjakan Hari ini?
+- Perbaikan Halaman
+Ada masalah dalam pengerjaan tugas?
+- tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- Gerund
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Perbaikan halaman(Jimmy Yappeter)
+2. PUSH : Burndown Chart (Frenky Salim)
+
+=======
+Hari 14
+=======
+Daily SCRUM Meeting
+-------------------
+Frenky Salim :
+Kemarin Mengerjakan Apa?
+- Burndown Chart
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Dedy Suhendra :
+Kemarin Mengerjakan Apa?
+-
+Apa yang dikerjakan Hari ini?
+- Memperbaiki error pada halaman
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Jimmy Yappeter:
+Kemarin Mengerjakan Apa?
+- Perbaikan Halaman
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- tidak ada
+
+Boby Hartanto :
+Kemarin Mengerjakan Apa?
+- 
+Apa yang dikerjakan Hari ini?
+- 
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada
+
+Progress Harian
+---------------
+1. PUSH : Perbaikan halaman preposition, question tag (Dedy Suhendra)
 
